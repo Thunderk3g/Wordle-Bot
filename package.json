@@ -1,0 +1,31 @@
+{
+  "name": "wordle-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that will play wordle with you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thunderk3g/Wordle-Bot.git"
+  },
+  "keywords": [
+    "Wordle",
+    "Javascript",
+    "NodeJs"
+  ],
+  "author": "Thunderk3g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thunderk3g/Wordle-Bot/issues"
+  },
+  "homepage": "https://github.com/Thunderk3g/Wordle-Bot#readme",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "discord.js": "^12.5.3",
+    "fx": "^20.0.2",
+    "jquery-csv": "^1.0.21",
+    "nodemon": "^2.0.15"
+  }
+}
